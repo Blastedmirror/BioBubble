@@ -1,0 +1,11 @@
+Total number of players recorded today: 4 
+2 players still on premises.
+Player 12 did not swipe today.
+Player id 22 swiped 2 times today and is currently outside hotel.
+Players that swiped more than 3 number of times today are:
+41,3
+Range: 23 to 125
+Player swipe:
+23,1,in
+41,3,in
+121,2,out

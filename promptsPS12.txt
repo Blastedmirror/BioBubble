@@ -1,0 +1,5 @@
+onPremises:
+checkPlay: 12
+checkPlay: 22
+freqVisit: 3
+range: 23:125
